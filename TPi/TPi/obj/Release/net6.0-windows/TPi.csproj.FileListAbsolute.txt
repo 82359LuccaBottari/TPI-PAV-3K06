@@ -1,0 +1,1 @@
+C:\Users\lucca\source\repos\TPi\TPi\obj\Release\net6.0-windows\TPi.csproj.AssemblyReference.cache

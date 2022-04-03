@@ -1,0 +1,12 @@
+C:\Users\lucca\Downloads\TPI-PAV-3K06-main\TPI-PAV-3K06-main\TPi\TPi\obj\Debug\net6.0-windows\TPi.csproj.AssemblyReference.cache
+C:\Users\lucca\Downloads\TPI-PAV-3K06-main\TPI-PAV-3K06-main\TPi\TPi\obj\Debug\net6.0-windows\TPi.Form1.resources
+C:\Users\lucca\Downloads\TPI-PAV-3K06-main\TPI-PAV-3K06-main\TPi\TPi\obj\Debug\net6.0-windows\TPi.Formulario.frm_login.resources
+C:\Users\lucca\Downloads\TPI-PAV-3K06-main\TPI-PAV-3K06-main\TPi\TPi\obj\Debug\net6.0-windows\TPi.frm_menu.resources
+C:\Users\lucca\Downloads\TPI-PAV-3K06-main\TPI-PAV-3K06-main\TPi\TPi\obj\Debug\net6.0-windows\TPi.csproj.GenerateResource.cache
+C:\Users\lucca\Downloads\TPI-PAV-3K06-main\TPI-PAV-3K06-main\TPi\TPi\obj\Debug\net6.0-windows\TPi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\Downloads\TPI-PAV-3K06-main\TPI-PAV-3K06-main\TPi\TPi\obj\Debug\net6.0-windows\TPi.AssemblyInfoInputs.cache
+C:\Users\lucca\Downloads\TPI-PAV-3K06-main\TPI-PAV-3K06-main\TPi\TPi\obj\Debug\net6.0-windows\TPi.AssemblyInfo.cs
+C:\Users\lucca\Downloads\TPI-PAV-3K06-main\TPI-PAV-3K06-main\TPi\TPi\obj\Debug\net6.0-windows\TPi.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Downloads\TPI-PAV-3K06-main\TPI-PAV-3K06-main\TPi\TPi\obj\Debug\net6.0-windows\refint\TPi.dll
+C:\Users\lucca\source\repos\TPi\TPi\obj\Debug\net6.0-windows\TPi.csproj.AssemblyReference.cache
+C:\Users\lucca\source\repos\TPi\TPi\obj\Debug\net6.0-windows\refint\TPi.dll

@@ -1,4 +1,5 @@
-﻿namespace TPi.Formulario
+﻿using TPi;
+namespace TPi.Formulario
 {
     partial class frm_login
     {
@@ -43,7 +44,6 @@
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox2.Image = global::TPi.Properties.Resources.Sin_título;
             this.pictureBox2.Location = new System.Drawing.Point(423, 23);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(66, 44);
@@ -101,7 +101,6 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox1.Image = global::TPi.Properties.Resources.Sin_título2;
             this.pictureBox1.Location = new System.Drawing.Point(538, 215);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(74, 56);
@@ -114,7 +113,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.BackgroundImage = global::TPi.Properties.Resources.absceso_dental_800x399;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(616, 274);
             this.Controls.Add(this.pictureBox1);
